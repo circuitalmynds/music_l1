@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1046.4295,
+    "videos": [
         "Larme à gauche.mp4",
         "Laid Back - Don't Shoot The Sun Down (Iive)-ClXUlSx65y4.mp4",
         "Llegan Empujando-LWgIg7cZGho.mp4",
@@ -113,7 +114,5 @@
         "Liga Desorden - Soldado-vFhVYEcB1Gg.mp4",
         "Laurel Aitken & The Skatalites - Mood for Ska-e3ciRgl8wcM.mp4",
         "Leo Dan - Siempre Estoy Pensando en Ella (En Vivo) ft. Luis Humberto Navejas-TGL0w6Aq0Zk.mp4"
-    ],
-    "id": "l1",
-    "total_size": 997.9527431640623
+    ]
 }
